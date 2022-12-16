@@ -1,0 +1,286 @@
+
+Robber.png
+size: 2048, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+ded
+  rotate: false
+  xy: 526, 47
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1
+ded
+  rotate: false
+  xy: 1802, 60
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: 1
+ded
+  rotate: false
+  xy: 1802, 2
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: 2
+ded
+  rotate: false
+  xy: 1864, 72
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: 3
+ded
+  rotate: false
+  xy: 1929, 79
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: 4
+ded
+  rotate: false
+  xy: 1619, 2
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: 6
+ded
+  rotate: false
+  xy: 2, 3
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: 5
+ded
+  rotate: false
+  xy: 1866, 40
+  size: 49, 30
+  orig: 49, 30
+  offset: 0, 0
+  index: 7
+deadUnit
+  rotate: false
+  xy: 1866, 40
+  size: 49, 30
+  orig: 49, 30
+  offset: 0, 0
+  index: -1
+goes
+  rotate: false
+  xy: 590, 43
+  size: 59, 83
+  orig: 59, 83
+  offset: 0, 0
+  index: 4
+goes
+  rotate: false
+  xy: 651, 43
+  size: 58, 83
+  orig: 58, 83
+  offset: 0, 0
+  index: 5
+goes
+  rotate: false
+  xy: 711, 43
+  size: 55, 83
+  orig: 55, 83
+  offset: 0, 0
+  index: 6
+goes
+  rotate: false
+  xy: 954, 44
+  size: 53, 82
+  orig: 53, 82
+  offset: 0, 0
+  index: 1
+goes
+  rotate: false
+  xy: 1009, 44
+  size: 52, 82
+  orig: 52, 82
+  offset: 0, 0
+  index: 3
+goes
+  rotate: false
+  xy: 1063, 45
+  size: 52, 81
+  orig: 52, 81
+  offset: 0, 0
+  index: -1
+goes
+  rotate: false
+  xy: 1170, 43
+  size: 49, 83
+  orig: 49, 83
+  offset: 0, 0
+  index: 2
+hit
+  rotate: false
+  xy: 2, 44
+  size: 94, 82
+  orig: 94, 82
+  offset: 0, 0
+  index: 2
+hit
+  rotate: false
+  xy: 98, 49
+  size: 79, 77
+  orig: 79, 77
+  offset: 0, 0
+  index: 3
+hit
+  rotate: false
+  xy: 179, 49
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: 5
+hit
+  rotate: false
+  xy: 259, 52
+  size: 68, 74
+  orig: 68, 74
+  offset: 0, 0
+  index: 4
+hit
+  rotate: false
+  xy: 461, 48
+  size: 63, 78
+  orig: 63, 78
+  offset: 0, 0
+  index: 7
+hit
+  rotate: false
+  xy: 830, 49
+  size: 61, 77
+  orig: 61, 77
+  offset: 0, 0
+  index: 6
+hit
+  rotate: false
+  xy: 1325, 46
+  size: 51, 80
+  orig: 51, 80
+  offset: 0, 0
+  index: 1
+hit
+  rotate: false
+  xy: 1572, 35
+  size: 45, 91
+  orig: 45, 91
+  offset: 0, 0
+  index: -1
+revival
+  rotate: false
+  xy: 329, 50
+  size: 65, 76
+  orig: 65, 76
+  offset: 0, 0
+  index: 5
+revival
+  rotate: false
+  xy: 396, 50
+  size: 63, 76
+  orig: 63, 76
+  offset: 0, 0
+  index: 6
+revival
+  rotate: false
+  xy: 768, 48
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: 4
+revival
+  rotate: false
+  xy: 893, 48
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: 3
+revival
+  rotate: false
+  xy: 1117, 44
+  size: 51, 82
+  orig: 51, 82
+  offset: 0, 0
+  index: 2
+revival
+  rotate: false
+  xy: 1221, 43
+  size: 48, 83
+  orig: 48, 83
+  offset: 0, 0
+  index: 1
+revival
+  rotate: false
+  xy: 1271, 47
+  size: 52, 79
+  orig: 52, 79
+  offset: 0, 0
+  index: 7
+revival
+  rotate: false
+  xy: 1993, 44
+  size: 44, 82
+  orig: 44, 82
+  offset: 0, 0
+  index: -1
+stay
+  rotate: false
+  xy: 1378, 45
+  size: 48, 81
+  orig: 48, 81
+  offset: 0, 0
+  index: 7
+stay
+  rotate: false
+  xy: 1428, 44
+  size: 48, 82
+  orig: 48, 82
+  offset: 0, 0
+  index: -1
+stay
+  rotate: false
+  xy: 1478, 31
+  size: 45, 95
+  orig: 45, 95
+  offset: 0, 0
+  index: 4
+stay
+  rotate: false
+  xy: 1525, 28
+  size: 45, 98
+  orig: 45, 98
+  offset: 0, 0
+  index: 5
+stay
+  rotate: false
+  xy: 1619, 36
+  size: 43, 90
+  orig: 43, 90
+  offset: 0, 0
+  index: 3
+stay
+  rotate: false
+  xy: 1664, 39
+  size: 44, 87
+  orig: 44, 87
+  offset: 0, 0
+  index: 6
+stay
+  rotate: false
+  xy: 1710, 41
+  size: 45, 85
+  orig: 45, 85
+  offset: 0, 0
+  index: 1
+stay
+  rotate: false
+  xy: 1757, 38
+  size: 43, 88
+  orig: 43, 88
+  offset: 0, 0
+  index: 2

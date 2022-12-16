@@ -1,0 +1,223 @@
+
+Monk.png
+size: 512, 256
+format: RGBA4444
+filter: Nearest, Nearest
+repeat: none
+dead
+  rotate: false
+  xy: 2, 86
+  size: 67, 88
+  orig: 67, 88
+  offset: 0, 0
+  index: 1
+dead
+  rotate: false
+  xy: 71, 99
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+dead
+  rotate: false
+  xy: 156, 176
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: 2
+dead
+  rotate: false
+  xy: 143, 108
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: 3
+dead
+  rotate: false
+  xy: 212, 117
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: 4
+dead
+  rotate: false
+  xy: 430, 65
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: 5
+deadUnit
+  rotate: false
+  xy: 430, 65
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+hil
+  rotate: false
+  xy: 2, 2
+  size: 50, 82
+  orig: 50, 82
+  offset: 0, 0
+  index: 4
+hil
+  rotate: false
+  xy: 222, 167
+  size: 56, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: 5
+hil
+  rotate: false
+  xy: 280, 174
+  size: 45, 80
+  orig: 45, 80
+  offset: 0, 0
+  index: 3
+hil
+  rotate: false
+  xy: 373, 176
+  size: 43, 78
+  orig: 43, 78
+  offset: 0, 0
+  index: 2
+hil
+  rotate: false
+  xy: 463, 176
+  size: 42, 78
+  orig: 42, 78
+  offset: 0, 0
+  index: 1
+hil
+  rotate: false
+  xy: 54, 4
+  size: 31, 80
+  orig: 31, 80
+  offset: 0, 0
+  index: -1
+hit
+  rotate: false
+  xy: 2, 176
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: 3
+hit
+  rotate: false
+  xy: 83, 176
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: 2
+hit
+  rotate: false
+  xy: 327, 176
+  size: 44, 78
+  orig: 44, 78
+  offset: 0, 0
+  index: 1
+hit
+  rotate: false
+  xy: 418, 176
+  size: 43, 78
+  orig: 43, 78
+  offset: 0, 0
+  index: -1
+hit
+  rotate: false
+  xy: 165, 28
+  size: 42, 78
+  orig: 42, 78
+  offset: 0, 0
+  index: 4
+hit
+  rotate: false
+  xy: 454, 96
+  size: 36, 78
+  orig: 36, 78
+  offset: 0, 0
+  index: 5
+revival
+  rotate: false
+  xy: 87, 17
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: 2
+revival
+  rotate: false
+  xy: 285, 97
+  size: 42, 75
+  orig: 42, 75
+  offset: 0, 0
+  index: 1
+revival
+  rotate: false
+  xy: 329, 101
+  size: 45, 73
+  orig: 45, 73
+  offset: 0, 0
+  index: -1
+revival
+  rotate: false
+  xy: 376, 97
+  size: 37, 77
+  orig: 37, 77
+  offset: 0, 0
+  index: 3
+revival
+  rotate: false
+  xy: 415, 96
+  size: 37, 78
+  orig: 37, 78
+  offset: 0, 0
+  index: 4
+stand
+  rotate: false
+  xy: 129, 18
+  size: 34, 79
+  orig: 34, 79
+  offset: 0, 0
+  index: 3
+stand
+  rotate: false
+  xy: 209, 28
+  size: 37, 78
+  orig: 37, 78
+  offset: 0, 0
+  index: 6
+stand
+  rotate: false
+  xy: 248, 36
+  size: 35, 79
+  orig: 35, 79
+  offset: 0, 0
+  index: 4
+stand
+  rotate: false
+  xy: 285, 17
+  size: 36, 78
+  orig: 36, 78
+  offset: 0, 0
+  index: 5
+stand
+  rotate: false
+  xy: 323, 17
+  size: 33, 78
+  orig: 33, 78
+  offset: 0, 0
+  index: -1
+stand
+  rotate: false
+  xy: 358, 17
+  size: 34, 78
+  orig: 34, 78
+  offset: 0, 0
+  index: 2
+stand
+  rotate: false
+  xy: 394, 16
+  size: 34, 78
+  orig: 34, 78
+  offset: 0, 0
+  index: 1

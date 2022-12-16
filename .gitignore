@@ -1,3 +1,20 @@
+## img
+assets/atlas/Crossbowman/Crossbowman_main.png
+/assets/atlas/Monk/monk_main.png
+/assets/atlas/Peasant/Peasant_main.png
+/assets/atlas/Robber/Robber_main.png
+/assets/atlas/Sniper/Sniper_main.png
+assets/atlas/Spearman/Spearman_main.png
+assets/atlas/Wizard/wizard_main.png
+assets/atlas/Crossbowman/Crossbowman_img
+assets/atlas/Monk/Monk_img
+assets/atlas/Peasant/Peasant_img
+assets/atlas/Robber/Robber_img
+assets/atlas/Sniper/Sniper_img
+assets/atlas/Spearman/Spearman_img
+assets/atlas/Wizard/Wizard_img
+assets/atlas/unnamed.atlas
+assets/atlas/unnamed.png
 ## Java
 
 *.class
